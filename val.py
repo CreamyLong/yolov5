@@ -1,7 +1,7 @@
 # YOLOv5 🚀 by Ultralytics, GPL-3.0 license
 """
 Validate a trained YOLOv5 detection model on a detection dataset
-
+撒旦
 Usage:
     $ python val.py --weights yolov5s.pt --data coco128.yaml --img 640
 
