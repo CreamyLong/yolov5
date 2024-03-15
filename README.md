@@ -10,6 +10,16 @@
 
 [中文](https://docs.ultralytics.com/zh/) | [한국어](https://docs.ultralytics.com/ko/) | [日本語](https://docs.ultralytics.com/ja/) | [Русский](https://docs.ultralytics.com/ru/) | [Deutsch](https://docs.ultralytics.com/de/) | [Français](https://docs.ultralytics.com/fr/) | [Español](https://docs.ultralytics.com/es/) | [Português](https://docs.ultralytics.com/pt/) | [हिन्दी](https://docs.ultralytics.com/hi/) | [العربية](https://docs.ultralytics.com/ar/)
 
+
+
+
+
+
+
+
+
+
+
 <div>
     <a href="https://github.com/ultralytics/yolov5/actions/workflows/ci-testing.yml"><img src="https://github.com/ultralytics/yolov5/actions/workflows/ci-testing.yml/badge.svg" alt="YOLOv5 CI"></a>
     <a href="https://zenodo.org/badge/latestdoi/264818686"><img src="https://zenodo.org/badge/264818686.svg" alt="YOLOv5 Citation"></a>
@@ -21,6 +31,9 @@
     <a href="https://www.kaggle.com/ultralytics/yolov5"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
   </div>
   <br>
+
+
+
 
 YOLOv5 🚀 is the world's most loved vision AI, representing <a href="https://ultralytics.com">Ultralytics</a> open-source research into future vision AI methods, incorporating lessons learned and best practices evolved over thousands of hours of research and development.
 
@@ -46,6 +59,17 @@ To request an Enterprise License please complete the form at [Ultralytics Licens
 
 </div>
 <br>
+
+## ✊ Todo
+
+#### Setup the codebase and train a unconditional model on landscape dataset
+- [ ] Add TensorRT classification support for YOLOv5 
+- [x] Add TensorRT detection support for YOLOv5  which is borrowed from [learning-cuda-trt
+](https://github.com/jinmin527/learning-cuda-trt/tree/main/tensorrt-integrate-1.2-yolov5-detect)
+- [ ] Add TensorRT Segmentation support for YOLOv5 
+
+
+
 
 ## <div align="center">YOLOv8 🚀 NEW</div>
 
