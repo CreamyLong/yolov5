@@ -65,7 +65,8 @@ To request an Enterprise License please complete the form at [Ultralytics Licens
 #### Setup the codebase and train a unconditional model on landscape dataset
 - [ ] Add TensorRT classification support for YOLOv5 
 - [x] Add TensorRT detection support for YOLOv5  which is borrowed from [learning-cuda-trt
-](https://github.com/jinmin527/learning-cuda-trt/tree/main/tensorrt-integrate-1.2-yolov5-detect)
+](https://github.com/jinmin527/learning-cuda-trt/tree/main/tensorrt-integrate-1.2-yolov5-detect) and 
+[tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro)
 - [ ] Add TensorRT Segmentation support for YOLOv5 
 
 
