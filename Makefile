@@ -33,6 +33,7 @@ link_librarys  := $(link_cuda) $(link_tensorRT) $(link_sys) $(link_opencv)
 # 定义头文件路径，请注意斜杠后边不能有空格
 # 只需要写路径，不需要写-I
 include_paths := deploy              \
+	deploy/tensorRT                  \
     $(cuda_home)/include/cuda     \
 	$(cuda_home)/include/tensorRT \
 	$(cpp_pkg)/opencv4.2/include  \
